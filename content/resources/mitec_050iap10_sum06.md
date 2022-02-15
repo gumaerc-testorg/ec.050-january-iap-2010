@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This resource conatins the information about the telescope, motion activities
   and lens activities. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/6bb623fd14948eae680002f25b48caa3_MITEC_050IAP10_sum06.pdf
+file: /media/courses/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/6bb623fd14948eae680002f25b48caa3_MITEC_050IAP10_sum06.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Summary 6
 uid: 6bb623fd-1494-8eae-6800-02f25b48caa3

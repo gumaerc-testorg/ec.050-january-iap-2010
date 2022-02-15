@@ -1,13 +1,16 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Image Galleries
+parent_type: CourseSection
 parent_uid: 0e3d9b14-9b72-6a55-496d-db37bda5b6f5
 title: Telescope
 uid: c85a3246-85ae-7c1a-096e-75b96a411223
 ---
 
 Activities involving the telescope
-{{< image-gallery id="c85a3246-85ae-7c1a-096e-75b96a411223_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/" >}}
+{{< image-gallery id="c85a3246-85ae-7c1a-096e-75b96a411223_nanogallery2" baseUrl="/courses/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/" >}}
 {{< image-gallery-item href="9ebb1a8227a577583f08b2ae7e30b707_IMG_4008.jpg" data-ngdesc="Students set up a Celestron reflector telescope on the MIT front steps, to view Jupiter. Photo courtesy of Dr. Elizabeth Cavicchi." text="Students set up a Celestron reflector telescope on the MIT front steps, to view Jupiter." >}}
 {{< image-gallery-item href="590db3bf13b78c33f44be41aad0c2fcc_IMG_4016.jpg" data-ngdesc="Students orient the Celestron reflector telescope so as to view the moon. Photo courtesy of Dr. Elizabeth Cavicchi." text="Students orient the Celestron reflector telescope so as to view the moon." >}}
 {{< image-gallery-item href="3cac75fda9c52f539022c61c770f49f4_IMG_4010.jpg" data-ngdesc="Sharing the view in the reflector telescope. Photo courtesy of Dr. Elizabeth Cavicchi." text="Sharing the view in the reflector telescope." >}}

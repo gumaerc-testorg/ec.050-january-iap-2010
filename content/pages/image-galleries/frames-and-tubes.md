@@ -1,13 +1,16 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Image Galleries
+parent_type: CourseSection
 parent_uid: 0e3d9b14-9b72-6a55-496d-db37bda5b6f5
 title: Frames and Tubes
 uid: 82355b10-2482-b041-fc0f-80987d9bab81
 ---
 
 Sighting activities with frames and tubes
-{{< image-gallery id="82355b10-2482-b041-fc0f-80987d9bab81_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/" >}}
+{{< image-gallery id="82355b10-2482-b041-fc0f-80987d9bab81_nanogallery2" baseUrl="/courses/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/" >}}
 {{< image-gallery-item href="1d48430e70b2e77096f8d4330dcd5476_IMG_3418.jpg" data-ngdesc="Students stand on either side of a picture frame. Photo courtesy of Dr. Elizabeth Cavicchi." text="Students stand on either side of a picture frame." >}}
 {{< image-gallery-item href="ddeb1a0bec8618a326ba520212dd46f1_IMG_3419.jpg" data-ngdesc="Two students observing a wooden frame from a distance. Photo courtesy of Dr. Elizabeth Cavicchi." text="Two students observing a wooden frame from a distance." >}}
 {{< image-gallery-item href="cc372303642f416940d78496694c6c66_IMG_3420.jpg" data-ngdesc="Student uses a frame together with grating in the railing and the window. Photo courtesy of Dr. Elizabeth Cavicchi." text="Student uses a frame together with grating in the railing and the window." >}}

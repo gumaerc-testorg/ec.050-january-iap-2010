@@ -1,13 +1,16 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Image Galleries
+parent_type: CourseSection
 parent_uid: 0e3d9b14-9b72-6a55-496d-db37bda5b6f5
 title: Lenses
 uid: 3a42a38d-9035-f6cb-e8a4-947e3cb57ec9
 ---
 
 Activities involving the lens
-{{< image-gallery id="3a42a38d-9035-f6cb-e8a4-947e3cb57ec9_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/" >}}
+{{< image-gallery id="3a42a38d-9035-f6cb-e8a4-947e3cb57ec9_nanogallery2" baseUrl="/courses/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/" >}}
 {{< image-gallery-item href="397c60d34608988ac22b6704b557e55b_IMG_4030.jpg" data-ngdesc="An LED flashlight projects through two lenses set up by a student making images onto the paper backdrop. Photo courtesy of Dr. Elizabeth Cavicchi." text="An LED flashlight projects through two lenses set up by a student making images onto the paper backdrop." >}}
 {{< image-gallery-item href="5a273b1916412befd029ad9f124fc4f2_IMG_4038.jpg" data-ngdesc="Students observe the consequences of placing a single convex lens between the flashlight and the backdrop. Photo courtesy of Dr. Elizabeth Cavicchi." text="Students observe the consequences of placing a single convex lens between the flashlight and the backdrop." >}}
 {{< image-gallery-item href="a2eb6d7e2ab961463c80f8dff3b85ec0_IMG_4050.jpg" data-ngdesc="Students explore a lens form using a Rive light box, which they have modified with a pink transparency over one light. Photo courtesy of Dr. Elizabeth Cavicchi." text="Students explore a lens form using a Rive light box, which they have modified with a pink transparency over one light." >}}

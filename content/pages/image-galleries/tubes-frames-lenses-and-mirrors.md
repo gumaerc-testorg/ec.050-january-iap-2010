@@ -1,13 +1,16 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Image Galleries
+parent_type: CourseSection
 parent_uid: 0e3d9b14-9b72-6a55-496d-db37bda5b6f5
 title: Tubes, Frames, Lenses and Mirrors
 uid: da9c7976-ec2b-1116-2e7e-1f777c6f19c3
 ---
 
 Viewing activities with frames, lenses and mirrors
-{{< image-gallery id="da9c7976-ec2b-1116-2e7e-1f777c6f19c3_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/" >}}
+{{< image-gallery id="da9c7976-ec2b-1116-2e7e-1f777c6f19c3_nanogallery2" baseUrl="/courses/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/" >}}
 {{< image-gallery-item href="3a39d0191dd491b0c178458706f235bd_IMG_3452.jpg" data-ngdesc="Three students view a mirror placed on the floor between them. Photo courtesy of Dr. Elizabeth Cavicchi." text="Three students view a mirror placed on the floor between them." >}}
 {{< image-gallery-item href="5037611c53fea9070dec8a2b928b20c5_IMG_3457.jpg" data-ngdesc="A mirror is placed on the floor \[blocked from view\] and two students back away from it. Photo courtesy of Dr. Elizabeth Cavicchi." text="A mirror is placed on the floor \[blocked from view\] and two students back away from it." >}}
 {{< image-gallery-item href="0f7e02fbd765095aadde75a28fe8628a_IMG_3465.jpg" data-ngdesc="One student \[right\] holds a mirror before another \[middle\] while a third \[left\] looks from behind. Photo courtesy of Dr. Elizabeth Cavicchi." text="One student \[right\] holds a mirror before another \[middle\] while a third \[left\] looks from behind." >}}

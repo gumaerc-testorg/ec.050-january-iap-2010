@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This resource contains the information about the horizontal line, mirror,
   glass lamp and blowpiping. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/86f30f5e384a37a8a6b5f31cbe06549e_MITEC_050IAP10_sum04.pdf
+file: /media/courses/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/86f30f5e384a37a8a6b5f31cbe06549e_MITEC_050IAP10_sum04.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Summary 4
 uid: 86f30f5e-384a-37a8-a6b5-f31cbe06549e

@@ -1,13 +1,16 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Image Galleries
+parent_type: CourseSection
 parent_uid: 0e3d9b14-9b72-6a55-496d-db37bda5b6f5
 title: Observations and Motion
 uid: 60d8ea65-c9fc-e44b-0958-399a36777ff3
 ---
 
 Activities involving motion
-{{< image-gallery id="60d8ea65-c9fc-e44b-0958-399a36777ff3_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/" >}}
+{{< image-gallery id="60d8ea65-c9fc-e44b-0958-399a36777ff3_nanogallery2" baseUrl="/courses/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/" >}}
 {{< image-gallery-item href="ef998fb7a9c77f281d5779ed434a934e_IMG_3860.jpg" data-ngdesc="Student exploration with balls as these float or sink in an aquarium partly filled with water. Photo courtesy of Dr. Elizabeth Cavicchi." text="Student exploration with balls as these float or sink in an aquarium partly filled with water." >}}
 {{< image-gallery-item href="25393096a3529972ab0eb665b2055ee2_IMG_3869.jpg" data-ngdesc="A student experiment involving an LED flashlight and two different lenses; what image is projected from the flashlight onto the black backdrop? Photo courtesy of Dr. Elizabeth Cavicchi." text="A student experiment involving an LED flashlight and two different lenses; what image is projected from the flashlight onto the black backdrop?" >}}
 {{< image-gallery-item href="22faa3b39e34e3e6a873fb8c427e7c35_IMG_3840.jpg" data-ngdesc="A student looks through her homemade telescope at another student. Photo courtesy of Dr. Elizabeth Cavicchi." text="A student looks through her homemade telescope at another student." >}}
