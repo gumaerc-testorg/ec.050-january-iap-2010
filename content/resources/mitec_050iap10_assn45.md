@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8012742b-3520-2379-06a2-d660cea0357a
 resourcetype: Document
 title: Slide Rule
 uid: dc681a78-6259-b3ca-8dec-923a0561edf8

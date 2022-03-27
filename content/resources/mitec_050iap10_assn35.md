@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8012742b-3520-2379-06a2-d660cea0357a
 resourcetype: Document
 title: Responses to Galileo
 uid: 32f88cbd-c3d3-a17d-6d74-9bfdffd9e86c
