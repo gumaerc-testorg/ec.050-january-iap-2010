@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics along with lecture
+  summaries and lecture slides.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -37,7 +39,7 @@ Introductions, looking at pictures, frame activity, looking with tubes
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.5MB]({{< baseurl >}}/resources/mitec_050iap10_lec01))
+({{% resource_link 3cb4bd1f-db1a-2429-a102-4722922dd3f0 "PDF - 1.5MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,10 +51,10 @@ Introductions, looking at pictures, frame activity, looking with tubes
 Discussion of Bio, activity with frames, string, mirrors, drawing devices; lenses and looking outside
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.3MB]({{< baseurl >}}/resources/mitec_050iap10_sum02))
+({{% resource_link 4d7d3385-0070-a869-013c-75c2457a3d82 "PDF - 1.3MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_050iap10_lec02))
+({{% resource_link 7adf196a-2556-564d-5ca0-854aa9fc3293 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,7 +66,7 @@ Discussion of Bio, activity with frames, string, mirrors, drawing devices; lense
 Discussion of frame activities, diagrams, Galileo compass, spectacles, lens activities
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_050iap10_sum03))
+({{% resource_link 6bc3bf09-44ae-b910-16df-0dd3dc6e151d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -81,14 +83,14 @@ Glass lab visit, explorations with lenses and viewing
 {{< tdopen >}}
 
 
-([PDF - 1.3MB]({{< baseurl >}}/resources/mitec_050iap10_sum01))
+({{% resource_link cfe42ba4-fbe6-ebf6-5bce-b4843a3d23b4 "PDF - 1.3MB" %}})
 
-([PDF - 1.6MB]({{< baseurl >}}/resources/mitec_050iap10_sum04))
+({{% resource_link 86f30f5e-384a-37a8-a6b5-f31cbe06549e "PDF - 1.6MB" %}})
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_050iap10_lec04))
+({{% resource_link f3f30423-d06e-02e6-4fbd-478e8dad257c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -100,7 +102,7 @@ Glass lab visit, explorations with lenses and viewing
 Harvard instrument collection and Houghton library
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_050iap10_sum05))
+({{% resource_link 52094433-fee8-bbca-9901-714d29e7f7ff "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -115,7 +117,7 @@ Harvard instrument collection and Houghton library
 Discussion of Harvard visit, motion activities, lens, powers of ten
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_050iap10_sum06))
+({{% resource_link 6bb623fd-1494-8eae-6800-02f25b48caa3 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -130,7 +132,7 @@ Discussion of Harvard visit, motion activities, lens, powers of ten
 Discussion of settle reading, of motion; motion activities, discussion, telescope viewing
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_050iap10_sum07))
+({{% resource_link 1fe982bb-a86d-b7a7-84fa-9aa0431dced8 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -145,7 +147,7 @@ Discussion of settle reading, of motion; motion activities, discussion, telescop
 Visit to MIT museum; slide rule collection
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_050iap10_sum08))
+({{% resource_link dd9a279f-5b3b-c896-c4e5-3a851ba5948a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -160,7 +162,7 @@ Visit to MIT museum; slide rule collection
 Telescope viewing, motion, light and lens
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_050iap10_sum09))
+({{% resource_link fd4c6a27-aa0a-ed63-3c36-29d91bb58344 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -175,7 +177,7 @@ Telescope viewing, motion, light and lens
 Motions, lenses viewing in the hall, Westford observatory
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_050iap10_sum10))
+({{% resource_link 6f189043-de41-b5ae-4472-203c86198732 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  

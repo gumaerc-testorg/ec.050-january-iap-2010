@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides details on the course projects.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -31,7 +32,7 @@ PROJECT DETAILS
 Sighting activity with frames and tubes
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_050iap10_pro01))
+({{% resource_link 27df094f-9502-a0ee-9cb8-49ef7080018f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +44,7 @@ Sighting activity with frames and tubes
 Viewing with frames, lenses, pieces of mirror
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_050iap10_pro02))
+({{% resource_link ed2942b1-3cf6-7a14-a305-99621b767e94 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,7 +56,7 @@ Viewing with frames, lenses, pieces of mirror
 Activity with frames, Galileo's calculator, lenses
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_050iap10_pro03))
+({{% resource_link 4b412394-e2bd-f5f2-1531-3a4f1057a965 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +68,7 @@ Activity with frames, Galileo's calculator, lenses
 Glass blowing visit, diagrams, Ring of Truth, lenses
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_050iap10_pro04))
+({{% resource_link b29e928e-cbba-83fc-4547-ea1ec60130cf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,7 +92,7 @@ Discussion of _Galileo's Experimental Research_; Vincenzo Galilei, _Fuga a l'uni
 Slide rule introduction and activities
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_050iap10_pro05))
+({{% resource_link d7195e67-dba5-170c-fc42-51681edd2a48 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
