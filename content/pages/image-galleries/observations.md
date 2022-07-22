@@ -1,13 +1,18 @@
 ---
 content_type: page
+description: Image gallery consisting of selected collections of photos taken by the
+  course instructor Dr. Elizabeth Cavicchi. They show students participating in observations.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Image Galleries
+parent_type: CourseSection
 parent_uid: 0e3d9b14-9b72-6a55-496d-db37bda5b6f5
 title: Observations
 uid: 09d4b066-c954-9fb7-b6b9-d0fbb82f4379
 ---
 
 Observations
-{{< image-gallery id="09d4b066-c954-9fb7-b6b9-d0fbb82f4379_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/" >}}
+{{< image-gallery id="09d4b066-c954-9fb7-b6b9-d0fbb82f4379_nanogallery2" baseUrl="/courses/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/" >}}
 {{< image-gallery-item href="ae5d0de29e8632005d60a8d79d0a4f09_IMG_3819.jpg" data-ngdesc="Observing a building through a window and questioning whether the view would be the same through a telescope. Photo courtesy of Dr. Elizabeth Cavicchi." text="Observing a building through a window and questioning whether the view would be the same through a telescope." >}}
 {{< image-gallery-item href="076afd3621dbc170ec23d6516076ac56_IMG_3820.jpg" data-ngdesc="Looking for a regular grid structure in the side of a building seen out the window. Photo courtesy of Dr. Elizabeth Cavicchi." text="Looking for a regular grid structure in the side of a building seen out the window." >}}
 {{< image-gallery-item href="c62a2906bd1ecd767a4ac5a08ac0c5e4_IMG_3821.jpg" data-ngdesc="Observing other rectangular forms in a building seen out the window. Photo courtesy of Dr. Elizabeth Cavicchi." text="Observing other rectangular forms in a building seen out the window." >}}

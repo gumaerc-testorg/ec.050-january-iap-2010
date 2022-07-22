@@ -1,13 +1,19 @@
 ---
 content_type: page
+description: Image gallery consisting of selected collections of photos taken by the
+  course instructor Dr. Elizabeth Cavicchi. They show students participating in activities
+  involving motion, lenses and a tour of the observatory.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Image Galleries
+parent_type: CourseSection
 parent_uid: 0e3d9b14-9b72-6a55-496d-db37bda5b6f5
 title: Motion, Lens and the Observatory
 uid: 45b4d2da-8505-7fa9-1b8d-ed1db8e1d195
 ---
 
 Activities involving motion, lenses and a tour of the observatory
-{{< image-gallery id="45b4d2da-8505-7fa9-1b8d-ed1db8e1d195_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/" >}}
+{{< image-gallery id="45b4d2da-8505-7fa9-1b8d-ed1db8e1d195_nanogallery2" baseUrl="/courses/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/" >}}
 {{< image-gallery-item href="3bdbf3746d9f5fedc136ad326e1bfa2d_IMG_4066.jpg" data-ngdesc="A concave lens form is explored using the three-light source of a Rive light box. Photo courtesy of Dr. Elizabeth Cavicchi." text="A concave lens form is explored using the three-light source of a Rive light box." >}}
 {{< image-gallery-item href="9fe7c4e9a0298742a31d5542592d5b48_IMG_4079.jpg" data-ngdesc="Intriguing reflection effects result when a right-angle prism is explored with a three-light source. Photo courtesy of Dr. Elizabeth Cavicchi." text="Intriguing reflection effects result when a right-angle prism is explored with a three-light source." >}}
 {{< image-gallery-item href="b5c1daa082a280c817e6f026de0a5163_IMG_4060.jpg" data-ngdesc="A lens held over print. Photo courtesy of Dr. Elizabeth Cavicchi." text="A lens held over print." >}}

@@ -1,13 +1,19 @@
 ---
 content_type: page
+description: Image gallery consisting of selected collections of photos taken by the
+  course instructor Dr. Elizabeth Cavicchi. They show students participating in activities
+  in the glass blowing lab.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Image Galleries
+parent_type: CourseSection
 parent_uid: 0e3d9b14-9b72-6a55-496d-db37bda5b6f5
 title: Glass Blowing and Lenses
 uid: 52359a2b-465b-b053-08c6-9cabe4b1e911
 ---
 
 Activities in the glass blowing lab
-{{< image-gallery id="52359a2b-465b-b053-08c6-9cabe4b1e911_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/" >}}
+{{< image-gallery id="52359a2b-465b-b053-08c6-9cabe4b1e911_nanogallery2" baseUrl="/courses/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/" >}}
 {{< image-gallery-item href="9767760362df95d5e65df468f91d9900_IMG_3664.jpg" data-ngdesc="A glass sphere made by Peter Houk. Photo courtesy of Dr. Elizabeth Cavicchi." text="A glass sphere made by Peter Houk." >}}
 {{< image-gallery-item href="d19aa20e3d8537afba54e6632c2e26b4_IMG_3669.jpg" data-ngdesc="Artist Peter Houk lays out white glass rods on a ceramic table. The rods will be incorporated into the formation of a reticello vase. Photo courtesy of Dr. Elizabeth Cavicchi." text="Artist Peter Houk lays out white glass rods on a ceramic table. The rods will be incorporated into the formation of a reticello vase." >}}
 {{< image-gallery-item href="44c8e2c06287f85571015a3dc33c49b8_IMG_3671.jpg" data-ngdesc="A glassblower works with an incandescent hot glass form. Photo courtesy of Dr. Elizabeth Cavicchi." text="A glassblower works with an incandescent hot glass form." >}}

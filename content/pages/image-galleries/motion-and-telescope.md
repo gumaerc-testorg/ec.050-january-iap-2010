@@ -1,13 +1,19 @@
 ---
 content_type: page
+description: Image gallery consisting of selected collections of photos taken by the
+  course instructor Dr. Elizabeth Cavicchi. They show students participating in activities
+  involving motion and the telescope.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Image Galleries
+parent_type: CourseSection
 parent_uid: 0e3d9b14-9b72-6a55-496d-db37bda5b6f5
 title: Motion and Telescope
 uid: 1c7abb95-9511-7e57-e751-3c3b66e4c637
 ---
 
 Activities involving motion and the telescope
-{{< image-gallery id="1c7abb95-9511-7e57-e751-3c3b66e4c637_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/" >}}
+{{< image-gallery id="1c7abb95-9511-7e57-e751-3c3b66e4c637_nanogallery2" baseUrl="/courses/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/" >}}
 {{< image-gallery-item href="a32b7537daa2fa24646317d20e0a8782_IMG_3917.jpg" data-ngdesc="Student plucks a lute string. Photo courtesy of Dr. Elizabeth Cavicchi." text="Student plucks a lute string." >}}
 {{< image-gallery-item href="91aa4f1455a90d5fafbb48596a55b5d7_IMG_3918.jpg" data-ngdesc="Students discussing lab notebook results. Photo courtesy of Dr. Elizabeth Cavicchi." text="Students discussing lab notebook results." >}}
 {{< image-gallery-item href="bef70cef9659fdba18c6541571d37a58_IMG_3920.jpg" data-ngdesc="Tape on the blackboard records motions of a ball; measurements from the tape are on the table to the right. Photo courtesy of Dr. Elizabeth Cavicchi." text="Tape on the blackboard records motions of a ball; measurements from the tape are on the table to the right." >}}

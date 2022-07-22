@@ -1,13 +1,19 @@
 ---
 content_type: page
+description: Image gallery consisting of selected collections of photos taken by the
+  course instructor Dr. Elizabeth Cavicchi. They show students participating in activities
+  with compass and spectacles.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Image Galleries
+parent_type: CourseSection
 parent_uid: 0e3d9b14-9b72-6a55-496d-db37bda5b6f5
 title: Compass and Spectacles
 uid: da8cc63f-04fa-1fe8-7ac3-1d94a668f815
 ---
 
 Activities with compass and spectacles
-{{< image-gallery id="da8cc63f-04fa-1fe8-7ac3-1d94a668f815_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/" >}}
+{{< image-gallery id="da8cc63f-04fa-1fe8-7ac3-1d94a668f815_nanogallery2" baseUrl="/courses/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/" >}}
 {{< image-gallery-item href="2aa194a3b64d7be1c20f24c95afd3019_IMG_3575.jpg" data-ngdesc="Straight lines indicate sighting lines from the viewer. Photo courtesy of Dr. Elizabeth Cavicchi." text="Straight lines indicate sighting lines from the viewer." >}}
 {{< image-gallery-item href="930699f77ff323a4b8e71048de9fae0b_IMG_3633.jpg" data-ngdesc="Blackboard drawings by students. Straight lines indicate sighting lines from the viewer, through a picture frame \[a vertical rectangle for the diagrams to the left; a horizontal line for the long vertically oriented diagram to the right\]. Photo courtesy of Dr. Elizabeth Cavicchi." text="Blackboard drawings by students. Straight lines indicate sighting lines from the viewer, through a picture frame \[a vertical rectangle for the diagrams to the left; a horizontal line for the long vertically oriented diagram to the right\]." >}}
 {{< image-gallery-item href="de787eebd741195c4878f058c0bd031c_IMG_3636.jpg" data-ngdesc="Sighting lines through a picture frame to the lute. Photo courtesy of Dr. Elizabeth Cavicchi." text="Sighting lines through a picture frame to the lute." >}}
