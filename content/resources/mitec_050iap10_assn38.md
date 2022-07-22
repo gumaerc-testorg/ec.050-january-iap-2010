@@ -5,6 +5,7 @@ file: /courses/ec-050-recreate-experiments-from-history-inform-the-future-from-t
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Excerpts on Motion
 uid: e927a9ea-7675-bad6-5ad9-a5b5ee9a0bac
 ---
 This file contains information regarding assignment 38.
-

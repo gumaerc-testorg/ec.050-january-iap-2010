@@ -5,6 +5,7 @@ file: /courses/ec-050-recreate-experiments-from-history-inform-the-future-from-t
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: My Story of Encountering Galileo
 uid: 25649391-66a5-764f-e7ee-1970e24d491d
 ---
 This file contains information regarding assignment 19.
-

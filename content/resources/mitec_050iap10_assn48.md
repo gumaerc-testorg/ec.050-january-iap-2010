@@ -5,6 +5,7 @@ file: /courses/ec-050-recreate-experiments-from-history-inform-the-future-from-t
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Slide Rule
 uid: 1ede924b-06cf-e823-7c60-78ef3d4fd8a1
 ---
 This file contains information regarding assignment 48.
-

@@ -5,6 +5,7 @@ file: /courses/ec-050-recreate-experiments-from-history-inform-the-future-from-t
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Perspective Activity
 uid: f6c74b80-a54b-eef7-bbb5-043754a10458
 ---
 This file contains information regarding assignment 21.
-

@@ -11,10 +11,10 @@ image_metadata:
   image-alt: Two photographs of buildings and trees that illustrate daily scenes surrounding
     us.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: ec-050iap10-th.jpg
 uid: de2e7c68-881a-2447-a2c9-1846bce11718
 ---
 Photographs of buildings and trees illustrating everyday scenes around us. (Photo courtesy of MIT Student.)
-

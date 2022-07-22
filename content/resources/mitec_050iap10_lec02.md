@@ -6,6 +6,7 @@ file: /courses/ec-050-recreate-experiments-from-history-inform-the-future-from-t
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lecture 2
 uid: 7adf196a-2556-564d-5ca0-854aa9fc3293
 ---
 This resource contains the information about the drawing, geometry and two draughtsmen plotting points for the drawing. 
-

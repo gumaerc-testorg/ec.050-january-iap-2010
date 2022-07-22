@@ -5,6 +5,7 @@ file: /courses/ec-050-recreate-experiments-from-history-inform-the-future-from-t
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Activity and Observing
 uid: efab67c5-f0ab-7560-2937-7670dae5a8e0
 ---
 This file contains information regarding assignment 30.
-

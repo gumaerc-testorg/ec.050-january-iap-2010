@@ -6,6 +6,7 @@ file: /courses/ec-050-recreate-experiments-from-history-inform-the-future-from-t
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Project 2
 uid: ed2942b1-3cf6-7a14-a305-99621b767e94
 ---
 This resource contains the information about the frames, geometry with frames, strings, grids and sighting aids. 
-

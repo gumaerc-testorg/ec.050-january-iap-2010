@@ -6,6 +6,7 @@ file: /courses/ec-050-recreate-experiments-from-history-inform-the-future-from-t
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Summary 3
 uid: 6bc3bf09-44ae-b910-16df-0dd3dc6e151d
 ---
 This resource lists the triangles diagram, parallel lines diagram, crossing lines diagram and expenssion of lenses and mirrors. 
-

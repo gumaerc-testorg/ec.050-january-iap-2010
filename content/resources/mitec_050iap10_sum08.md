@@ -6,6 +6,7 @@ file: /courses/ec-050-recreate-experiments-from-history-inform-the-future-from-t
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Summary 8
 uid: dd9a279f-5b3b-c896-c4e5-3a851ba5948a
 ---
 This resource contains the information about the Galileo's experimental research, discussion of motion activities and motion activities in class.
-

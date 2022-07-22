@@ -6,6 +6,7 @@ file: /courses/ec-050-recreate-experiments-from-history-inform-the-future-from-t
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Summary 2
 uid: 4d7d3385-0070-a869-013c-75c2457a3d82
 ---
 This resource contains the information about the reading on Galileo?s biography, string, mirrors, paper and straws. 
-

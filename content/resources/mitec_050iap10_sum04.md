@@ -6,6 +6,7 @@ file: /courses/ec-050-recreate-experiments-from-history-inform-the-future-from-t
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Summary 4
 uid: 86f30f5e-384a-37a8-a6b5-f31cbe06549e
 ---
 This resource contains the information about the horizontal line, mirror, glass lamp and blowpiping. 
-
