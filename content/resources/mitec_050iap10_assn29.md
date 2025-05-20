@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding assignment 29.
-file: /ol-ocw-studio-app/courses/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/16339b9a7d52589a9b97cdcd78b55a0b_MITEC_050IAP10_assn29.pdf
+file: /courses/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/16339b9a7d52589a9b97cdcd78b55a0b_MITEC_050IAP10_assn29.pdf
 file_size: 99641
 file_type: application/pdf
 learning_resource_types:
