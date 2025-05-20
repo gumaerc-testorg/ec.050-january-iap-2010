@@ -2,7 +2,7 @@
 content_type: resource
 description: Photographs of buildings and trees illustrating everyday scenes around
   us. (Photo courtesy of MIT Student.)
-file: /ol-ocw-studio-app/courses/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/de2e7c68881a2447a2c91846bce11718_ec-050iap10-th.jpg
+file: /courses/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/de2e7c68881a2447a2c91846bce11718_ec-050iap10-th.jpg
 file_size: 4135
 file_type: image/jpeg
 image_metadata:

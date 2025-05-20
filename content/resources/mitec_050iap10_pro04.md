@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information about the eyeglasses, lenses
   and mirrors. '
-file: /ol-ocw-studio-app/courses/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/b29e928ecbba83fc4547ea1ec60130cf_MITEC_050IAP10_pro04.pdf
+file: /courses/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/b29e928ecbba83fc4547ea1ec60130cf_MITEC_050IAP10_pro04.pdf
 file_size: 148366
 file_type: application/pdf
 learning_resource_types:
