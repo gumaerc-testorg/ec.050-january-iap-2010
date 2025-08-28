@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding final paper.
-file: /courses/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/9dfcc60e419fbdafd8777a65a7d29fb5_MITEC_050IAP10_FinalPaper.pdf
+file: /ol-ocw-studio-app/courses/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/9dfcc60e419fbdafd8777a65a7d29fb5_MITEC_050IAP10_FinalPaper.pdf
 file_size: 119929
 file_type: application/pdf
 learning_resource_types:
