@@ -40,10 +40,10 @@ Galileo. _On Motion and On Mechanics, Comprising De Motu (ca. 1590) and Le Mecca
 
 ———. _Two New Sciences_. Madison, WI: University of Wisconsin Press, 1974, Sections 140-141.
 
-[Galileo. Dialogue Concerning the Two World Systems.](http://science.sciencemag.org/content/119/3095/546.3)  
+{{% resource_link "f6637187-5ecd-4bf1-b21c-ac96808fce72" "Galileo. Dialogue Concerning the Two World Systems." %}}  
 \[A condensed, shortened version of Drake's translation of Galileo's dialogue.\]
 
-[English translation, Galileo's Two New Sciences Complete](http://galileoandeinstein.physics.virginia.edu/tns_draft/index.html)  
+{{% resource_link "ddbb9076-4a9d-4ace-b5e4-2300e2c1731f" "English translation, Galileo's Two New Sciences Complete" %}}  
 \[Galileo's complete 1638 book on motion, in a web form, English translation of 1914.\]
 
 Aris, Rutherford, et al. _Springs of Scientific Creativity_. Minneapolis, MN: University of Minnesota Press, 1983, chapter 1. ISBN: 9780816668304.
@@ -92,9 +92,9 @@ Cavicchi, Elizabeth. "Witness Account of Solar Microscope Projections: Collectiv
 
 Morrison, Philip, and Phylis Morrison. _The Ring of Truth: An Inquiry into How We Know What We Know_. New York, NY: Random House, 1987. ISBN: 9780394556635.
 
-conspiersacy. ""The Ring of Truth: Atoms" featuring Julia Child." February 02, 2007. YouTube. Accessed May 2, 2008. [http://www.youtube.com/watch?v=iw-cZhTISBk](http://www.youtube.com/watch?v=iw-cZhTISBk)
+conspiersacy. ""The Ring of Truth: Atoms" featuring Julia Child." February 02, 2007. YouTube. Accessed May 2, 2008. {{% resource_link "a3025e4e-5255-4823-8197-947575d2c86a" "http://www.youtube.com/watch?v=iw-cZhTISBk" %}}
 
-chickan. ""The Ring of Truth: Atoms" featuring Julia Child part 2." December 31, 2008. YouTube. Accessed May 2, 2008. [http://www.youtube.com/watch?v=PJ-mVHoosdI](http://www.youtube.com/watch?v=PJ-mVHoosdI)
+chickan. ""The Ring of Truth: Atoms" featuring Julia Child part 2." December 31, 2008. YouTube. Accessed May 2, 2008. {{% resource_link "9c05bc52-7e60-42e2-8fb5-044a425199c3" "http://www.youtube.com/watch?v=PJ-mVHoosdI" %}}
 
 Morrison Philip, Morrison Phylis, and the Office of Charles and Ray Eames. _Powers of Ten: About the Relative Size of Things in the Universe_. New York, NY: Scientific American Books, 1982. ISBN: 9780716714095.
 
@@ -114,7 +114,7 @@ Morrison Philip, Morrison Phylis, and the Office of Charles and Ray Eames. _Powe
 
 McMullin, Ernan. _Galileo: Man of Science_. New York, NY: Basic Books, Inc., 1967, chapter 13.
 
-[Galileo's compass. Drake's translated text.](http://brunelleschi.imss.fi.it/esplora/compasso/)  
+{{% resource_link "012fd00f-43c2-4fa4-846d-c70105ee70ac" "Galileo's compass. Drake's translated text." %}}  
 \[Florence museum website presentation of Galileo's compass, texts, and its uses.\]
 
 Galileo. _Operations of the Geometric and Military Compass, 1606_. Washington, DC: Smithsonian Inst Pr, 1978. ISBN: 9780874743838.
@@ -241,9 +241,9 @@ Cavicchi, Elizabeth. "Perspectives on Science." _Perspectives on Science_ 14, no
 
 ———. "Charles Grafton Page's Experiment with a Spiral Conductor." _Technology and Culture_ 49, no. 4 (2008): 1097-3729.
 
-———. "Reflections on the Teaching of Gerbert of Aurillac." In _Orbe Novus_. Edited by C. Sigismondi. Rome, Italy: Universitalia, 2010, pp. 7-21. ([PDF - 4.3MB](https://www.researchgate.net/publication/304159286_Reflections_on_the_Teaching_of_Gerbert_of_Aurillac))
+———. "Reflections on the Teaching of Gerbert of Aurillac." In _Orbe Novus_. Edited by C. Sigismondi. Rome, Italy: Universitalia, 2010, pp. 7-21. ({{% resource_link "958fc041-ea74-4049-a7e9-c19f5eddbd27" "PDF - 4.3MB" %}})
 
-———. "Activity inspired by Medieval Observers with Tubes." In _Orbe Novus_. Edited by C. Sigismondi. Rome, Italy: Universitalia, 2010, pp. 22-39. ([PDF - 4.3MB](http://irsol.ch/costantino_sigismondi/OrbeNovus_volume2010.pdf))
+———. "Activity inspired by Medieval Observers with Tubes." In _Orbe Novus_. Edited by C. Sigismondi. Rome, Italy: Universitalia, 2010, pp. 22-39. ({{% resource_link "93c32fea-9221-4559-ad73-4042e0d65adf" "PDF - 4.3MB" %}})
 
 
 {{< tdclose >}}
